@@ -34,11 +34,11 @@ export const Navigation = () => {
           {/* Mobile Navigation Button */}
           <div className="md:hidden flex items-center">
             <button
-              onClick={() => setIsOpen(!isOpen)}
+              onClick={() => {
+                setIsOpen(!isOpen);
+              }}
               aria-label={isOpen ? "Close menu" : "Open menu"}
-              className="text-gray-700 dark:text-gray-300 hover:text-black dark:hover:text-white"
-            ></button>
-            <button aria-label={isOpen ? "Close menu" : "Open menu"}>
+            >
               {isOpen ? <X size={24} /> : <Menu size={24} />}
             </button>
           </div>
