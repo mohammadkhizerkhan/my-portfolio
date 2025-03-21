@@ -1,0 +1,416 @@
+{
+    "basics": {
+      "name": "Mohammad khizer khan",
+      "headline": "Software Engineer",
+      "email": "khizerkhan1119@gmail.com",
+      "phone": "917349699242",
+      "location": "Bengaluru",
+      "url": {
+        "label": "",
+        "href": "https://my.khizer.fun"
+      },
+      "customFields": [
+        {
+          "id": "wdhkze2y735d24djd5on8jwd",
+          "icon": "",
+          "name": "",
+          "value": ""
+        }
+      ],
+      "picture": {
+        "url": "",
+        "size": 64,
+        "aspectRatio": 1,
+        "borderRadius": 0,
+        "effects": {
+          "hidden": false,
+          "border": false,
+          "grayscale": false
+        }
+      }
+    },
+    "sections": {
+      "summary": {
+        "name": "Summary",
+        "columns": 1,
+        "separateLinks": true,
+        "visible": true,
+        "id": "summary",
+        "content": ""
+      },
+      "awards": {
+        "name": "Awards",
+        "columns": 1,
+        "separateLinks": true,
+        "visible": true,
+        "id": "awards",
+        "items": []
+      },
+      "certifications": {
+        "name": "Certifications",
+        "columns": 1,
+        "separateLinks": true,
+        "visible": true,
+        "id": "certifications",
+        "items": []
+      },
+      "education": {
+        "name": "Education",
+        "columns": 1,
+        "separateLinks": true,
+        "visible": true,
+        "id": "education",
+        "items": [
+          {
+            "id": "bl4vcn41ar4dmzlwqazbq9tx",
+            "visible": true,
+            "institution": "Sri Siddhartha Institute Of Technology",
+            "studyType": "B.Tech",
+            "area": "ISE",
+            "score": "",
+            "date": "2017-2021",
+            "summary": "",
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          }
+        ]
+      },
+      "experience": {
+        "name": "Experience",
+        "columns": 1,
+        "separateLinks": true,
+        "visible": true,
+        "id": "experience",
+        "items": [
+          {
+            "id": "zxrmflgd0x50ev4yus8149cn",
+            "visible": true,
+            "company": "M2P fintech, SDE-1",
+            "position": "",
+            "location": "",
+            "date": "September 2022 - present (Chennai)",
+            "summary": "<p><strong>Forex Prepaid Multi-Tenant Product (Full-Stack Development)</strong></p><ul><li><p>Implemented dynamic form layouts using <strong>schema-driven architecture</strong> for validation, leveraging React with <strong>RTK-query</strong> to optimize API handling, global state management, and caching strategies in frontend.</p></li><li><p>Developed business logic and comprehensive REST APIs to onboard banks and issue cards with risk checks, seamlessly integrating with <strong>core banking system APIs</strong>.</p></li><li><p>Developed a <strong>custom Java logger</strong> to mask PII data in production, ensuring customer identity data is not exposed.</p></li><li><p>Enhanced system reliability with <strong>Prometheus</strong> and <strong>Grafana</strong>, tracking business failures, customer onboardings, transaction failures, and application performance, while adding <strong>alerts</strong> for critical production issues.</p></li><li><p>Conducted load testing using <strong>k6</strong> and implemented <strong>TLS</strong> security for MongoDB microservices.</p></li><li><p>Created analytical reports enabling banks to verify records and <strong>reconcile transaction</strong> failures.</p></li></ul><p><strong>SBIC \"Splito\" React Native BNPL Application</strong></p><ul><li><p>Implemented core features: customer onboarding , card bill payment with <strong>Bill Desk SDK</strong> , reward tracking , <strong>MPIN</strong> authentication with reset functionality.</p></li><li><p>Enhanced security via native Android SDK integration through <strong>bridge architechture </strong>, <strong>SSL pinning</strong>, and SIM card event monitoring.</p></li><li><p>Developed reusable <strong>core components</strong>, such as debounced slider for handling EMI amounts, ensuring a smooth UX.</p></li></ul><p><strong>IDFC Bank Forex Card Management SDK</strong></p><ul><li><p>Developed React Native SDK for comprehensive Forex card management for IDFC bank app.</p></li><li><p>Implemented core <strong>exchange rate management</strong> functionality.</p></li></ul><p><strong>Account Aggregator Portal</strong></p><ul><li><p>Engineered end-to-end React web application for financial data aggregation.</p></li><li><p>Implemented <strong>WebSocket communication</strong> with bank servers and developed a sophisticated multi-bank consent mechanism with OTP verification.</p></li></ul>",
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          }
+        ]
+      },
+      "volunteer": {
+        "name": "Open Source",
+        "columns": 1,
+        "separateLinks": true,
+        "visible": true,
+        "id": "volunteer",
+        "items": [
+          {
+            "id": "wv0d6wb61kubklzzd8vh0s7h",
+            "visible": true,
+            "organization": "Real Dev Squad",
+            "position": "Software Developer",
+            "location": "",
+            "date": "September-2023",
+            "summary": "<ul><li><p>Integrated global state management using <strong>Redux-Saga</strong> and <strong>encrypted-local-storage</strong> for secure data handling.</p></li><li><p>Implemented local feature flagging and created different builds for different environments using <strong>React Native Config</strong>.</p></li><li><p>Link: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://realdevsquad.com/\">Real Dev Sqaud</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://github.com/Real-Dev-Squad/mobile-app/pulls?q=is%3Apr+is%3Aclosed+author%3Amohammadkhizerkhan\">PR's merged</a>.</p></li></ul>",
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          }
+        ]
+      },
+      "interests": {
+        "name": "Interests",
+        "columns": 1,
+        "separateLinks": true,
+        "visible": true,
+        "id": "interests",
+        "items": []
+      },
+      "languages": {
+        "name": "Languages",
+        "columns": 1,
+        "separateLinks": true,
+        "visible": true,
+        "id": "languages",
+        "items": []
+      },
+      "profiles": {
+        "name": "Profiles",
+        "columns": 5,
+        "separateLinks": true,
+        "visible": true,
+        "id": "profiles",
+        "items": [
+          {
+            "id": "lj5se2rowxnt1kj8md7os2lg",
+            "visible": true,
+            "network": "LinkedIn",
+            "username": "LinkedIn",
+            "icon": "linkedin",
+            "url": {
+              "label": "",
+              "href": "https://www.linkedin.com/in/mohammadkhizer-khan/"
+            }
+          },
+          {
+            "id": "km6in0j79unt8e31b3o1h626",
+            "visible": true,
+            "network": "Github",
+            "username": "github",
+            "icon": "github",
+            "url": {
+              "label": "",
+              "href": "https://github.com/mohammadkhizerkhan"
+            }
+          },
+          {
+            "id": "bacp00zyrq6616e72up2y5jn",
+            "visible": true,
+            "network": "Twitter",
+            "username": "Twitter",
+            "icon": "x",
+            "url": {
+              "label": "",
+              "href": "https://x.com/khizerkhan_07"
+            }
+          }
+        ]
+      },
+      "projects": {
+        "name": "Projects",
+        "columns": 1,
+        "separateLinks": true,
+        "visible": true,
+        "id": "projects",
+        "items": []
+      },
+      "publications": {
+        "name": "Publications",
+        "columns": 1,
+        "separateLinks": true,
+        "visible": true,
+        "id": "publications",
+        "items": []
+      },
+      "references": {
+        "name": "References",
+        "columns": 1,
+        "separateLinks": true,
+        "visible": true,
+        "id": "references",
+        "items": []
+      },
+      "skills": {
+        "name": "Skills",
+        "columns": 5,
+        "separateLinks": true,
+        "visible": true,
+        "id": "skills",
+        "items": [
+          {
+            "id": "mio6f8kp1qqrq45hpc5a2e1c",
+            "visible": true,
+            "name": "Javascript",
+            "description": "",
+            "level": 0,
+            "keywords": []
+          },
+          {
+            "id": "hj67tes2tyglt4m34deose9y",
+            "visible": true,
+            "name": "Typescript",
+            "description": "",
+            "level": 0,
+            "keywords": []
+          },
+          {
+            "id": "fu6olgyns82rbyzn94f9w0ef",
+            "visible": true,
+            "name": " ReactJs",
+            "description": "",
+            "level": 0,
+            "keywords": []
+          },
+          {
+            "id": "ykaz1ardlxorzb3tlbiew312",
+            "visible": true,
+            "name": "React Native",
+            "description": "",
+            "level": 0,
+            "keywords": []
+          },
+          {
+            "id": "op1pwdpt1xo5k4y3md3sk6tf",
+            "visible": true,
+            "name": "NextJs",
+            "description": "",
+            "level": 0,
+            "keywords": []
+          },
+          {
+            "id": "lb8md5n24rz3s3a4nn57li98",
+            "visible": true,
+            "name": "NodeJs",
+            "description": "",
+            "level": 0,
+            "keywords": []
+          },
+          {
+            "id": "s3no1vvcsksyegako8tufwm5",
+            "visible": true,
+            "name": "java(spring-boot)",
+            "description": "",
+            "level": 0,
+            "keywords": []
+          },
+          {
+            "id": "semru3m9vcr161lbz2qdp5t3",
+            "visible": true,
+            "name": "Docker",
+            "description": "",
+            "level": 0,
+            "keywords": []
+          },
+          {
+            "id": "cn1csgr3bn13crzb8e18gz65",
+            "visible": true,
+            "name": "MongoDB ",
+            "description": "",
+            "level": 0,
+            "keywords": []
+          },
+          {
+            "id": "lqllqjrzra3yd5m27ujlbewu",
+            "visible": true,
+            "name": "Postgresql",
+            "description": "",
+            "level": 0,
+            "keywords": []
+          },
+          {
+            "id": "yzwrpiuzhygvfbtspw19vwmo",
+            "visible": true,
+            "name": "Redis",
+            "description": "",
+            "level": 0,
+            "keywords": []
+          },
+          {
+            "id": "jshawqir7nmt262ijis3ny8o",
+            "visible": true,
+            "name": "Kafka",
+            "description": "",
+            "level": 0,
+            "keywords": []
+          },
+          {
+            "id": "y3mi0w52z70hbzpaguiwa98n",
+            "visible": true,
+            "name": "HTML",
+            "description": "",
+            "level": 0,
+            "keywords": []
+          },
+          {
+            "id": "lbltr0asyfu10t3rdrp3psu1",
+            "visible": true,
+            "name": "CSS",
+            "description": "",
+            "level": 0,
+            "keywords": []
+          },
+          {
+            "id": "j0c9tvxgmhxqk7xp5irf3pwg",
+            "visible": true,
+            "name": "Grafana",
+            "description": "",
+            "level": 0,
+            "keywords": []
+          },
+          {
+            "id": "f9eigep2qcwigix3zdwqcr8m",
+            "visible": true,
+            "name": "Prometheus",
+            "description": "",
+            "level": 0,
+            "keywords": []
+          },
+          {
+            "id": "qo2dlv976cyvpb63s95v8j9n",
+            "visible": true,
+            "name": "Git",
+            "description": "",
+            "level": 0,
+            "keywords": []
+          },
+          {
+            "id": "ckylz3y78evsbzjlprvbqxea",
+            "visible": true,
+            "name": "Github",
+            "description": "",
+            "level": 0,
+            "keywords": []
+          }
+        ]
+      },
+      "custom": {}
+    },
+    "metadata": {
+      "template": "rhyhorn",
+      "layout": [
+        [
+          [
+            "profiles",
+            "experience",
+            "volunteer",
+            "skills",
+            "education",
+            "projects",
+            "references",
+            "summary"
+          ],
+          [
+            "interests",
+            "certifications",
+            "awards",
+            "publications",
+            "languages"
+          ]
+        ]
+      ],
+      "css": {
+        "value": "* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+        "visible": false
+      },
+      "page": {
+        "margin": 16,
+        "format": "a4",
+        "options": {
+          "breakLine": true,
+          "pageNumbers": false
+        }
+      },
+      "theme": {
+        "background": "#ffffff",
+        "text": "#000000",
+        "primary": "#57534e"
+      },
+      "typography": {
+        "font": {
+          "family": "Arial",
+          "subset": "latin",
+          "variants": [
+            "regular"
+          ],
+          "size": 14.1
+        },
+        "lineHeight": 1.2,
+        "hideIcons": false,
+        "underlineLinks": true
+      },
+      "notes": ""
+    }
+  }
