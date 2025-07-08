@@ -57,7 +57,7 @@ export default function Hero() {
             })}
             <div className="flex space-x-4">
                 <motion.a
-                href="https://drive.google.com/file/d/1w6_U7rYroJNcr0XxEl5ou-Vt4rmWciVQ/view?usp=drivesdk"
+                href="https://drive.google.com/file/d/1W2TuF7J3xWS3fCU9IGrVYVsnMgvbdfk1/view?usp=drivesdk"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-900 dark:text-gray-100 px-4 py-2 rounded shadow hover:text-gray-700 dark:hover:text-gray-300 transition-colors outline-none focus:outline-none border-2 border-gray-900 dark:border-gray-100"
