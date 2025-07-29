@@ -18,10 +18,7 @@ export default function Hero() {
             Software Engineer
           </h2>
           <p className="text-lg text-gray-700 dark:text-gray-300 mb-8 leading-relaxed">
-            Based in Bengaluru, I specialize in full-stack development with
-            expertise in React, React Native, and Node.js. Currently working at
-            M2P fintech as SDE-1, focusing on building scalable financial
-            solutions.
+            Full-stack Software Engineer with 3+ years of experience in the fintech domain, based in Bengaluru and focused on developing robust and scalable financial solutions.
           </p>
           <div className="flex flex-col md:flex-row md:space-x-4 mb-8">
             {icons.Email}

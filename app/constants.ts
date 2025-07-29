@@ -35,6 +35,8 @@ export const skills = [
   "Docker",
   "MongoDB",
   "PostgreSQL",
+  "Redis",
+  "Kafka",
   "HTML",
   "CSS",
   "Grafana",
@@ -46,7 +48,7 @@ export const experienceContent = [
   {
     icon: icons.m2p,
     name: "M2P Fintech",
-    since: "Sep 2022 - present",
+    since: "Sep 2022 - July 2025",
     projects: [
       {
         title: "Forex Prepaid Multi-Tenant Product (Full-Stack Development)",
@@ -57,6 +59,19 @@ export const experienceContent = [
           "Enhanced system reliability with Prometheus and Grafana, tracking business failures, customer onboardings, transaction failures, and application performance, while adding alerts for critical production issues.",
           "Conducted load testing using k6 and implemented TLS security for MongoDB microservices.",
           "Created analytical reports enabling banks to verify records and reconcile transaction failures.",
+          "Mentored junior and intern developers, providing code reviews, technical guidance, actively contributed to team growth byconducting 25+ technical interviews during hiring drives."
+        ],
+      },
+      {
+        title: "VISAPAY",
+        bullets: [
+          "Developed cash-in/cash-out transactions with secure code validation from app, Ensured real-time delivery of SMS/email/in-app notifications by orchestrating asynchronous Kafka based message pipelines to a centralized notification service",
+          "Enabled onboarding of external bank accounts by implementing custom fuzzy name matching, dKYC validations, and support foraccount add/update/close workflows, enriching the platform’s interoperability.",
+          "Led successful soundbox integration by implementing AES-GCM encryption and mTLS handshake for merchant transaction sound alerts, improving user confidence at merchant outlets.",
+          "Automated three-phase consumer closure for stale accounts using Spring Batch with scheduled cron jobs, ensuring performance by chunk-wise processing and delivering final closure reports via email to clients.",
+          "Enabled end-to-end mutual TLS (mTLS) integration between VisaPay microservices and external partners like African banks to eliminate MITM vulnerabilities and secure all communication. ensuring PCI DSS compliance.",
+          "Integrated Visa core APIs using ML encryption, securely handling API keys, tokens, and ML keys obtained from the Visa Developer Portal for secure transaction execution.",
+          "Built VisaPay Agent Portal using Next.js with server-side rendering, enabling bank agents to efficiently handle consumer management."
         ],
       },
       {
@@ -70,15 +85,13 @@ export const experienceContent = [
       {
         title: "IDFC Bank Forex Card Management SDK",
         bullets: [
-          "Developed React Native SDK for comprehensive Forex card management for IDFC bank app.",
-          "Implemented core exchange rate management functionality.",
+          "Developed React Native SDK for Forex card management, enabling multi-currency wallet transfers (e.g., CDF → USD → AED), transaction history, and dispute management, designed for seamless integration into the parent app.",
         ],
       },
       {
         title: "Account Aggregator Portal",
         bullets: [
-          "Engineered end-to-end React web application for financial data aggregation.",
-          "Implemented WebSocket communication with bank servers and developed a sophisticated multi-bank consent mechanism with OTP verification.",
+          "Built Account Aggregator Portal from scratch using React, implementing WebSocket-based communication with banks, OTP-driven multi-bank consent flow, and complex state management for dynamic account linking, selection, and consent generation.",
         ],
       },
     ],
