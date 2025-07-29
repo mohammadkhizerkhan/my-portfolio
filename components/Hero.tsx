@@ -14,10 +14,10 @@ export default function Hero() {
           <h1 className="text-4xl md:text-6xl font-bold mb-4 text-gray-900 dark:text-white">
             Mohammad Khizer Khan
           </h1>
-          <h2 className="text-2xl md:text-3xl text-gray-600 dark:text-gray-300 mb-6">
+          {/* <h2 className="text-2xl md:text-3xl text-gray-600 dark:text-gray-300 mb-6">
             Software Engineer
-          </h2>
-          <p className="text-lg text-gray-700 dark:text-gray-300 mb-8 leading-relaxed">
+          </h2> */}
+          <p className="text-lg text-gray-600 dark:text-gray-300 mb-8 leading-relaxed">
             Full-stack Software Engineer with 3+ years of experience in the fintech domain, based in Bengaluru and focused on developing robust and scalable financial solutions.
           </p>
           <div className="flex flex-col md:flex-row md:space-x-4 mb-8">
